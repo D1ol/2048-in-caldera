@@ -19,7 +19,7 @@ export default function Home() {
         <title>Play 2048</title>
         <meta
           name="description"
-          content="Friendly 2048 Superform theme game"
+          content="2048 game for Caldera community"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="favicon.ico" />
@@ -47,7 +47,7 @@ export default function Home() {
       <footer>
         <div className={styles.socials}>
         </div>
-        <div>Forked and customized with ❤️ by D1ol only for Superform Community</div>
+        <div>Forked and customized with ❤️ by D1ol for Caldera Community</div>
       </footer>
     </div>
   );
