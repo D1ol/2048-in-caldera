@@ -24,7 +24,7 @@ const NameInput: React.FC<NameInputProps> = ({ score, time }) => {
     }
 
     if (score < 200) {
-      setError("Try harder, get PIGGY away from Superfrens trap");
+      setError("Try to play better");
       return;
     }
 
